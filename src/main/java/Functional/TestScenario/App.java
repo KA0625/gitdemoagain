@@ -9,8 +9,9 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
-        system.out.println("after six years demo again ");
-        System.out.println("oh god subconsious mind working");
+        System.out.println("after six years demo again ");
+        System.out.println("I AM EDITING THE COMMAND NOT CODEg");
         System.out.println("control and spacebar with sysout");
+        System.out.println("added the line ");
     }
 }
